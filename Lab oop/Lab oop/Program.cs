@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("My name is Natthakit Mitsungnoen");
+//name
+Console.WriteLine("Natthakit Mitsungnoen");
+//id
+Console.WriteLine("653450283-5");
+//mail
+Console.WriteLine("natthakit.m@kkumail.com");
